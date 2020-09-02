@@ -4,7 +4,7 @@
 # MOVIEフォルダは無視
 # /が前にあると、相対パス
 # /がフォルダの前にないと、該当する場所全部無視
-MOVIE/
+/MOVIE/
 
 # Fireworks.mp4は管理したい！
 !/MOVIE/Fireworks.mp4
